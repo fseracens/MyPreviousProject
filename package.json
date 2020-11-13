@@ -1,0 +1,19 @@
+{
+  "name": "daily_services_web",
+  "version": "1.0.0",
+  "description": "This is JavaScript file",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Web-Development-CMT322/Daily_Services_Web.git"
+  },
+  "author": "Fakhruddin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Web-Development-CMT322/Daily_Services_Web/issues"
+  },
+  "homepage": "https://github.com/Web-Development-CMT322/Daily_Services_Web#readme"
+}
